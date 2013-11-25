@@ -1069,7 +1069,7 @@ blocks:
     name: Cobblestone Wall
     mapcolor: [54, 24, 30]
     tex: [0, 14]
-    type: WALL
+    type: WALL // ???
     data:
       0: 
         tex: [0, 4]
